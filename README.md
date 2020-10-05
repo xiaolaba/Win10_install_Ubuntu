@@ -8,18 +8,18 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 ###  or use GUI to do the job as following,
 
 Enable this feature support first,  
-Win10, 本機, 控制台\程式集\程式和功能  
-![enable_win10_linux_support_1.jpg](/photos/enable_win10_linux_support_1.jpg)
+1. Win10, 本機, 控制台\程式集\程式和功能     
+![enable_win10_linux_support_1.jpg](/photos/enable_win10_linux_support_1.jpg)  
+  
+2. open the setup  
+![enable_win10_linux_support_2.jpg](/photos/enable_win10_linux_support_2.jpg)  
+
+3. select this feature to proceed with
+![enable_win10_linux_support_3.jpg](/photos/enable_win10_linux_support_3.jpg)  
+
+upon finish, Win10 will be asked to reboot.  
   
   
-![enable_win10_linux_support_2.jpg](/photos/enable_win10_linux_support_2.jpg)
-
-select this feature to proceed with
-![enable_win10_linux_support_3.jpg](/photos/enable_win10_linux_support_3.jpg)
-
-upon finish, Win10 will be asked to reboot.
-
-
 ### Win10 support Linux is enable, now to install Ubuntu 20.04.1 LTS  
 open Microsoft Store, the app store by Microsoft, just like play sotre of Google or App store of Apple.  
 fine Untutu and install, may be hours requried  
