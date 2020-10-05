@@ -39,7 +39,7 @@ easy for development platform and internally used;
 ```  
 sudo apt-get update    
 ```  
-do not forget to hits [Eneter]  
+do not forget to hits [Enter]  
 ![enable_win10_linux_support_6.jpg](/photos/enable_win10_linux_support_6.jpg)  
 required hour depends on speed of your network  
 
