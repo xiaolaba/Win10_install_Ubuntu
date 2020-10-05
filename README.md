@@ -20,7 +20,7 @@ Enable this feature support first,
 just be patient and waiting.... upon finish, Win10 will be asked to reboot.    
   
   
-### Win10 support Linux is enable, now to install Ubuntu 20.04.1 LTS  
+### Win10 support Linux is enabled, now to install Ubuntu 20.04.1 LTS  
 now PC has been rebooted, open Microsoft Store, the app store by Microsoft. just like play store of Google or App store of Apple.  
 find Ubuntu and install, maybe hour is required,  
 ![enable_win10_linux_support_4.jpg](/photos/enable_win10_linux_support_4.jpg)  
@@ -45,7 +45,7 @@ required hour depends on speed of your network
 
 
 ### Ubuntu 20.04.1 LTS, ready for the job  
-#### caution, do not edit any of those file with Win 10 tools or folder manipulation!!  
+#### caution, do not edit any of those files with Win10 tools or folder manipulation!!  
 where to see those files of linux working environment, usually,  
 ```   
 %userprofile%\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc
