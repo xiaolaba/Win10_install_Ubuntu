@@ -62,3 +62,49 @@ and home folder
 
 job done, something like this,  
 ![enable_win10_linux_support_7.jpg](/photos/enable_win10_linux_support_7.jpg)  
+
+### test the build a simple program - hello world
+
+copy the following, invoke Ubuntun, right click the mouse button, those command will be done
+```
+  
+clear  
+  
+mkdir hello  
+cd hello  
+  
+## build hello.c  
+cat <<EOT >> hello.c  
+/*C program to get current system date and time in Linux.*/  
+   
+#include <stdio.h>  
+#include <time.h>  
+   
+int main()  
+{  
+    time_t T= time(NULL);  
+    struct  tm tm = *localtime(&T);  
+       
+    printf("System Date is: %02d/%02d/%04d\n",tm.tm_mday, tm.tm_mon+1, tm.tm_year+1900);  
+    printf("System Time is: %02d:%02d:%02d\n",tm.tm_hour, tm.tm_min, tm.tm_sec);  
+   
+    return 0;  
+}  
+EOT  
+  
+## show content hello.c  
+#cat hello.c  
+  
+## compile hello.c  
+gcc -o hello hello.c  
+  
+## run program  
+./hello  
+ls  
+  
+  
+  
+```  
+
+if you see somehting like this, the program build and done,  
+
