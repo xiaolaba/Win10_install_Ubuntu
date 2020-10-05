@@ -14,7 +14,7 @@ Enable this feature support first,
 2. open the setup  
 ![enable_win10_linux_support_2.jpg](/photos/enable_win10_linux_support_2.jpg)  
 
-3. select this feature to proceed with
+3. select this feature to proceed with  
 ![enable_win10_linux_support_3.jpg](/photos/enable_win10_linux_support_3.jpg)  
 
 upon finish, Win10 will be asked to reboot.  
