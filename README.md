@@ -65,7 +65,7 @@ job done, something like this,
 
 ### test the build a simple program - hello world
 
-copy the following, invoke Ubuntun, right click the mouse button, those command will be done
+copy the following, invoke Ubuntun, right click the mouse button, those commands will be done
 ```
   
 clear  
@@ -106,5 +106,8 @@ ls
   
 ```  
 
-if you see somehting like this, the program build and done,  
+if you see somehting like this, the program build is successful,   
+
+![enable_win10_linux_support_8.jpg](/photos/enable_win10_linux_support_8.jpg)  
+
 
