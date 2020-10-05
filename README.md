@@ -8,13 +8,13 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 ###  or use GUI to do the job as following,
 
 Enable this feature support first,  
-1. Win10, 本機, 控制台\程式集\程式和功能     
+1. Win10, [本機], input [控制台\程式集\程式和功能\, then hits [ENTER]     
 ![enable_win10_linux_support_1.jpg](/photos/enable_win10_linux_support_1.jpg)  
   
-2. open the setup  
+2. open the setup, this window should pops up, clicks [開啟或關閉WINDOWS功呢]      
 ![enable_win10_linux_support_2.jpg](/photos/enable_win10_linux_support_2.jpg)  
 
-3. select this feature to proceed with  
+3. select this feature to proceed with, [windows 子系統 LINUX 版], then press [確定]   
 ![enable_win10_linux_support_3.jpg](/photos/enable_win10_linux_support_3.jpg)  
 
 upon finish, Win10 will be asked to reboot.  
