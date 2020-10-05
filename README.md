@@ -63,7 +63,7 @@ and home folder
 job done, something like this,  
 ![enable_win10_linux_support_7.jpg](/photos/enable_win10_linux_support_7.jpg)  
 
-### test the build a simple program - hello world
+### test, to build a simple program - hello world
 
 copy the following, invoke Ubuntun, right click the mouse button, those commands will be done
 ```
