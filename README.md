@@ -45,7 +45,7 @@ required hour depends on speed of your network
 
 
 ### Ubuntu 20.04.1 LTS, ready for the job  
-####caution, do not edit any of those file with Win 10 tools or folder manipulation!!  
+#### caution, do not edit any of those file with Win 10 tools or folder manipulation!!  
 where to see those files of linux working environment, usually,  
 ```   
 %userprofile%\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc
