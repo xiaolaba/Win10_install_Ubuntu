@@ -106,7 +106,7 @@ ls
   
 ```  
 
-if you see somehting like this, the program build is successful,   
+if you see something like this, the program build is successful,   
 
 ![enable_win10_linux_support_8.jpg](/photos/enable_win10_linux_support_8.jpg)  
 
