@@ -39,12 +39,13 @@ easy for development platform and internally used;
 ```  
 sudo apt-get update    
 ```  
+do not forget to hits [Eneter]  
 ![enable_win10_linux_support_6.jpg](/photos/enable_win10_linux_support_6.jpg)  
 required hour depends on speed of your network  
 
 
 ### Ubuntu 20.04.1 LTS, ready for the job  
-caution, do not edit any of those file with Win 10 tools or folder manipulation!!  
+####caution, do not edit any of those file with Win 10 tools or folder manipulation!!  
 where to see those files of linux working environment, usually,  
 ```   
 %userprofile%\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc
@@ -60,4 +61,4 @@ and home folder
 
 
 job done, something like this,  
-![enable_win10_linux_support_7.jpg](/photos/senable_win10_linux_support_7.jpg)  
+![enable_win10_linux_support_7.jpg](/photos/enable_win10_linux_support_7.jpg)  
