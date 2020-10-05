@@ -17,17 +17,17 @@ Enable this feature support first,
 3. select this feature to proceed with, [windows 子系統 LINUX 版], then press [確定]   
 ![enable_win10_linux_support_3.jpg](/photos/enable_win10_linux_support_3.jpg)  
 
-upon finish, Win10 will be asked to reboot.  
+just wiating.... upon finish, Win10 will be asked to reboot.  
   
   
 ### Win10 support Linux is enable, now to install Ubuntu 20.04.1 LTS  
-open Microsoft Store, the app store by Microsoft, just like play sotre of Google or App store of Apple.  
-fine Untutu and install, may be hours requried  
+now PC has been rebooted, open Microsoft Store, the app store by Microsoft. just like play store of Google or App store of Apple.  
+find Ubuntu and install, maybe hour is required,  
 ![enable_win10_linux_support_4.jpg](/photos/enable_win10_linux_support_4.jpg)  
 
-### Ubuntu 20.04.1 LTS in installed, the first time invoke
-the systme will asks you to select user name and password at the first itme,
-for example,
+### Ubuntu 20.04.1 LTS in installed, the first time invoke  
+the system will asks you to select user name and password at the first time,  
+for example,  
 ```
 user name : xiao  
 password : 0000  
@@ -60,4 +60,4 @@ and home folder
 
 
 something like this,  
-![enable_win10_linux_support_7.jpg](/photo/senable_win10_linux_support_7.jpg)  
+![enable_win10_linux_support_7.jpg](/photos/senable_win10_linux_support_7.jpg)  
