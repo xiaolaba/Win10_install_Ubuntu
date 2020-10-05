@@ -2,9 +2,10 @@
 Win10, how to install Ubuntu support natively
 
 ### Windows Subsystem for Linux Installation Guide for Windows 10
-#### it is not enabled by default, https://docs.microsoft.com/en-us/windows/wsl/install-win10
+#### it is not enabled by default, see how to by M$   
+https://docs.microsoft.com/en-us/windows/wsl/install-win10  
 
-#### or use GUI to do the job as following,
+###  or use GUI to do the job as following,
 
 Enable this feature support first,  
 Win10, 本機, 控制台\程式集\程式和功能  
