@@ -11,10 +11,10 @@ Win10, 本機, 控制台\程式集\程式和功能
 ![enable_win10_linux_support_1.jpg](/photos/enable_win10_linux_support_1.jpg)
   
   
-![enable_win10_linux_support_2.jpg](/photosenable_win10_linux_support_2.jpg)
+![enable_win10_linux_support_2.jpg](/photos/enable_win10_linux_support_2.jpg)
 
 select this feature to proceed with
-![enable_win10_linux_support_3.jpg](/photosenable_win10_linux_support_3.jpg)
+![enable_win10_linux_support_3.jpg](/photos/enable_win10_linux_support_3.jpg)
 
 upon finish, Win10 will be asked to reboot.
 
@@ -22,7 +22,7 @@ upon finish, Win10 will be asked to reboot.
 ### Win10 support Linux is enable, now to install Ubuntu 20.04.1 LTS  
 open Microsoft Store, the app store by Microsoft, just like play sotre of Google or App store of Apple.  
 fine Untutu and install, may be hours requried  
-![enable_win10_linux_support_4.jpg](/photosenable_win10_linux_support_4.jpg)  
+![enable_win10_linux_support_4.jpg](/photos/enable_win10_linux_support_4.jpg)  
 
 ### Ubuntu 20.04.1 LTS in installed, the first time invoke
 the systme will asks you to select user name and password at the first itme,
@@ -38,7 +38,7 @@ easy for development paltform and internally used;
 ```  
 sudo apt-get update    
 ```  
-![enable_win10_linux_support_6.jpg](/photosenable_win10_linux_support_6.jpg)  
+![enable_win10_linux_support_6.jpg](/photos/enable_win10_linux_support_6.jpg)  
 required hour depends on speed of your network  
 
 
@@ -59,4 +59,4 @@ and home folder
 
 
 something like this,  
-![enable_win10_linux_support_7.jpg](/photosenable_win10_linux_support_7.jpg)  
+![enable_win10_linux_support_7.jpg](/photo/senable_win10_linux_support_7.jpg)  
