@@ -17,7 +17,7 @@ Enable this feature support first,
 3. select this feature to proceed with, [windows 子系統 LINUX 版], then press [確定]   
 ![enable_win10_linux_support_3.jpg](/photos/enable_win10_linux_support_3.jpg)  
 
-just wiating.... upon finish, Win10 will be asked to reboot.  
+just be patient and waiting.... upon finish, Win10 will be asked to reboot.    
   
   
 ### Win10 support Linux is enable, now to install Ubuntu 20.04.1 LTS  
@@ -32,10 +32,10 @@ for example,
 user name : xiao  
 password : 0000  
 ```
-easy for development paltform and internally used;  
+easy for development platform and internally used;  
 
 
-### Ubuntu 20.04.1 LTS, login and update the system  
+### Ubuntu 20.04.1 LTS, login & update the system  
 ```  
 sudo apt-get update    
 ```  
@@ -43,9 +43,9 @@ sudo apt-get update
 required hour depends on speed of your network  
 
 
-### Ubuntu 20.04.1 LTS, ready for the job
-caution, do not edit any of those file with Win10 tools or folder manipulation!!
-where to see those files of linux working enviorment, usually,
+### Ubuntu 20.04.1 LTS, ready for the job  
+caution, do not edit any of those file with Win 10 tools or folder manipulation!!  
+where to see those files of linux working environment, usually,  
 ```   
 %userprofile%\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc
 ```   
@@ -59,5 +59,5 @@ and home folder
 ```  
 
 
-something like this,  
+job done, something like this,  
 ![enable_win10_linux_support_7.jpg](/photos/senable_win10_linux_support_7.jpg)  
