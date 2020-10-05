@@ -90,7 +90,7 @@ int main()
    
     return 0;  
 }  
-EOT  
+EOT
   
 ## show content hello.c  
 #cat hello.c  
