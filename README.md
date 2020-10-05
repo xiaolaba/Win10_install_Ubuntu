@@ -8,7 +8,7 @@ Win10, how to install Ubuntu support natively
 
 Enable this feature support first,  
 Win10, 本機, 控制台\程式集\程式和功能  
-![enable_win10_linux_support_1.jpg](photo\enable_win10_linux_support_1.jpg)
+![enable_win10_linux_support_1.jpg](./photo/enable_win10_linux_support_1.jpg)
   
   
 ![enable_win10_linux_support_2.jpg](enable_win10_linux_support_2.jpg)
