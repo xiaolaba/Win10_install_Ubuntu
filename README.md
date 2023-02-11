@@ -149,3 +149,10 @@ installation done, logout & login
 ![2023-02-10_wsl_update/docker_desktop_run.JPG](2023-02-10_wsl_update/docker_desktop_run.JPG)  
 
 
+
+### USBipd WSL2 USB connection, WSL 連線 USB 裝置
+https://learn.microsoft.com/zh-tw/windows/wsl/connect-usb
+download, https://github.com/dorssel/usbipd-win/releases
+
+
+
