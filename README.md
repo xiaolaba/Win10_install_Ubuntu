@@ -154,5 +154,13 @@ installation done, logout & login
 https://learn.microsoft.com/zh-tw/windows/wsl/connect-usb
 download, https://github.com/dorssel/usbipd-win/releases
 
-
+### convert from wsl1 to wsl2
+```
+wsl --list --verbose
+```
+```
+wsl --set-version Ubuntu-20.04 2
+wsl --set-default-version 2
+wsl --list --verbose
+```
 
