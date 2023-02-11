@@ -54,10 +54,19 @@ and roots
 ```  
 %userprofile%\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs
 ```  
-and home folder
+and home folder, wsl 1
 ```  
 %userprofile%\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home
 ```  
+
+and home folder, wsl 2,  
+you may uses win10 editor to edit those files, no more constraint as wsl updated and coverted wsl 2,
+```
+\\wsl.localhost\Ubuntu-20.04\home
+
+```
+
+
 
 
 job done, something like this,  
