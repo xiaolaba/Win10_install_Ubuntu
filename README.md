@@ -131,3 +131,10 @@ ubutnu 的小 icon 被換成了小企鵝.
 企鵝終於跑起來了  
 
 ![2023-02-10_wsl_update/wsl2_console_ready.jpg](2023-02-10_wsl_update/wsl2_console_ready.jpg)  
+
+#### caution, do not edit any of those files with Win10 tools or folder manipulation!! 
+hello test, remove the hello build last time first  
+```
+rm -r hello
+```
+copy and 
