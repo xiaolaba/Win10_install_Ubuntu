@@ -111,3 +111,20 @@ if you see something like this, the program build is successful,
 ![enable_win10_linux_support_8.jpg](/photos/enable_win10_linux_support_8.jpg)  
 
 
+
+
+### 2023-FEB-10
+run this ubutnu, it prompts need to update wsl2, update done and the icon has been changed  
+open cmd,
+```
+wsl -- list --online
+wsl --update
+
+```
+先解決小問題,  不然打開閃屏就關不能用,  
+這只企鵝很古怪, 說甚麼的呢  
+難道是這樣幹掉它?!  
+原來就是它搞怪  
+企鵝終於跑起來了  
+
+![2023-02-10_wsl_update/wsl2_console_ready.jpg](2023-02-10_wsl_update/wsl2_console_ready.jpg)  
