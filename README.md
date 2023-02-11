@@ -137,7 +137,6 @@ hello test, remove the hello build last time first
 ```
 rm -r hello
 ```
-build hello_world program again,  
-https://github.com/xiaolaba/Win10_install_Ubuntu/blob/main/README.md#test-to-build-a-simple-program---hello-world   
+[build hello_world program again](https://github.com/xiaolaba/Win10_install_Ubuntu/blob/main/README.md#test-to-build-a-simple-program---hello-world)    
 done,  
-![wsl2_hello_ok.JPG](wsl2_hello_ok.JPG)  
+![2023-02-10_wsl_update/wsl2_hello_ok.JPG](2023-02-10_wsl_update/wsl2_hello_ok.JPG)  
