@@ -140,3 +140,12 @@ rm -r hello
 [click here to see & build hello_world program again](https://github.com/xiaolaba/Win10_install_Ubuntu/blob/main/README.md#test-to-build-a-simple-program---hello-world)    
 done,  
 ![2023-02-10_wsl_update/wsl2_hello_ok.JPG](2023-02-10_wsl_update/wsl2_hello_ok.JPG)  
+
+
+### dosker desktop installation
+ref : https://sh-tsang.medium.com/tutorial-docker-installation-in-wsl-2-of-windows-f4471fc3e1d4
+download, https://docs.docker.com/desktop/windows/wsl/
+installation done, logout & login  
+![2023-02-10_wsl_update/docker_desktop_run.JPG](2023-02-10_wsl_update/docker_desktop_run.JPG)  
+
+
